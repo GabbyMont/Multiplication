@@ -1,5 +1,3 @@
-def multiplication(x,y)
-	puts x * y
+def multiply(x,y)
+	 x * y
 end
-
-multiplication(9,12)
